@@ -1,0 +1,6 @@
+tup = (1,2,3,4,4,4,5)
+name = ('Professor', 'Raimal','Raja')
+c = tup.count(4)
+i = tup.index(4)
+print(c)
+print(i)
