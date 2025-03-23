@@ -39,16 +39,17 @@ This repository is a one-stop resource for learning **Core Python**, covering sy
 ---
 
 ## 📂 Repository Structure
-Complete-Core-Python/
-├── Basics/ # Python syntax, data types, and control structures
-├── OOP/ # Classes, inheritance, polymorphism
-├── Modules/ # Built-in and custom modules
-├── Exception_Handling/ # Try-except blocks, custom exceptions
-├── File_IO/ # File handling operations
-├── Projects/ # Practical mini-projects (e.g., calculator, to-do app)
-└── Exercises/ # Practice problems with solutions
 
-Copy
+```
+Complete-Core-Python/
+├── Basics/               # Python syntax, data types, and control structures
+├── OOP/                  # Classes, inheritance, polymorphism
+├── Modules/              # Built-in and custom modules
+├── Exception_Handling/   # Try-except blocks, custom exceptions
+├── File_IO/              # File handling operations
+├── Projects/             # Practical mini-projects (e.g., calculator, to-do app)
+└── Exercises/            # Practice problems with solutions
+```
 
 ---
 
@@ -57,104 +58,102 @@ Copy
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Raimal-Raja/Complete-Core-Python.git
-Install Python (if not installed):
+   ```
 
-Download from Python.org.
+2. **Install Python** (if not installed):
+   - Download from [Python.org](https://www.python.org/downloads/).
+   - Verify installation:
+     ```bash
+     python --version
+     ```
 
-Verify installation:
+---
 
-bash
-Copy
-python --version
-🛠️ Usage
-Navigate to a topic folder (e.g., Basics/).
+## 🛠️ Usage
 
-Run Python scripts:
+1. **Navigate to a topic folder** (e.g., `Basics/`).
+2. **Run Python scripts**:
+   ```bash
+   python filename.py
+   ```
+3. **Experiment with code** and modify examples to test concepts.
+4. **Solve exercises** in the `Exercises/` directory.
 
-bash
-Copy
-python filename.py
-Experiment with code and modify examples to test concepts.
+---
 
-Solve exercises in the Exercises/ directory.
+## 🌐 External Resources
 
-🌐 External Resources
-📚 Learning Platforms
-Official Python Documentation
+### 📚 Learning Platforms
+- [Official Python Documentation](https://docs.python.org/3/)
+- [Real Python Tutorials](https://realpython.com/)
+- [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
+- [Coursera: Python for Everybody](https://www.coursera.org/specializations/python)
 
-Real Python Tutorials
+### ▶️ YouTube Channels
+- [Corey Schafer](https://www.youtube.com/c/CoreySchafer) (Python tutorials)
+- [Tech With Tim](https://www.youtube.com/c/TechWithTim) (Projects & advanced concepts)
 
-Codecademy Python Course
+### 📖 Recommended Books
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
 
-Coursera: Python for Everybody
+### 💬 Communities
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/python)
+- [Reddit: r/learnpython](https://www.reddit.com/r/learnpython/)
 
-▶️ YouTube Channels
-Corey Schafer (Python tutorials)
+---
 
-Tech With Tim (Projects & advanced concepts)
+## 📄 Documentation
+- [Python Standard Library](https://docs.python.org/3/library/)
+- [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
+- [Python Tutorial for Beginners](https://docs.python.org/3/tutorial/index.html)
 
-📖 Recommended Books
-Automate the Boring Stuff with Python
+---
 
-Fluent Python
+## 🤝 Contributing
 
-💬 Communities
-Stack Overflow
-
-Reddit: r/learnpython
-
-📄 Documentation
-Python Standard Library
-
-PEP 8 Style Guide
-
-Python Tutorial for Beginners
-
-🤝 Contributing
 Contributions are welcome! Follow these steps:
+1. **Fork the repository**.
+2. **Create a branch**:
+   ```bash
+   git checkout -b feature/new-feature
+   ```
+3. **Commit changes**:
+   ```bash
+   git commit -m "Add new feature"
+   ```
+4. **Push to the branch**:
+   ```bash
+   git push origin feature/new-feature
+   ```
+5. **Open a Pull Request**.
 
-Fork the repository.
+**Guidelines**:
+- Follow [PEP 8](https://www.python.org/dev/peps/pep-0008/) style.
+- Add comments to explain complex logic.
+- Test your code before submitting.
 
-Create a branch:
+---
 
-bash
-Copy
-git checkout -b feature/new-feature
-Commit changes:
+## 📜 License
 
-bash
-Copy
-git commit -m "Add new feature"
-Push to the branch:
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
-bash
-Copy
-git push origin feature/new-feature
-Open a Pull Request.
+---
 
-Guidelines:
+## 🙏 Acknowledgments
 
-Follow PEP 8 style.
+- **Raimal-Raja** for creating and maintaining this repository.
+- Contributors who added code, exercises, or improvements.
+- Inspired by the Python community’s dedication to open-source learning.
 
-Add comments to explain complex logic.
+---
 
-Test your code before submitting.
+## 📬 Connect with the Author
 
-📜 License
-This project is licensed under the MIT License. See LICENSE for details.
+**Raimal Raja Kolhi**  
+- LinkedIn: [Raimal Raja Kolhi](https://www.linkedin.com/in/raimal-raja-kolhi-9422351b6/?originalSubdomain=pk)  
+- GitHub: [Raimal-Raja](https://github.com/Raimal-Raja)  
+- Email: [raimalrajagoal@gmail.com](mailto:raimalrajagoal@gmail.com)
 
-🙏 Acknowledgments
-Raimal-Raja for creating and maintaining this repository.
-
-Contributors who added code, exercises, or improvements.
-
-Inspired by the Python community’s dedication to open-source learning.
-
-📬 Connect with the Author
-Raimal Raja Kolhi
-
-LinkedIn: Raimal Raja Kolhi
-
-GitHub: Raimal-Raja
-
-Email: raimalrajagoal@gmail.com
+---
