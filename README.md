@@ -37,11 +37,7 @@ Follow the chapter folders in order and run each exercise independently. File-ha
 
 ### Validation
 
-Audit: 2026-10-08. Repository structure, setup instructions and description were reviewed. 148 existing Python files passed syntax checks; changed files and new regression tests were checked separately. Syntax checks do not establish full runtime correctness. External APIs, live scraping, GUI interaction, notebook training and production deployment were not comprehensively exercised.
-
-### Repository description
-
-The short GitHub description is provided in [REPOSITORY_DESCRIPTION.md](REPOSITORY_DESCRIPTION.md).
+Recorded checks from the previous maintenance review (2026-10-08): 148 existing Python files passed syntax checks; changed files and new regression tests were checked separately. Syntax checks do not establish full runtime correctness. External APIs, live scraping, GUI interaction, notebook training and production deployment were not comprehensively exercised.
 
 ### Contributions
 
