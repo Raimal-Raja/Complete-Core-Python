@@ -2,9 +2,9 @@
 
 Chapter-based Python learning exercises covering core syntax, collections, files, functions, and object-oriented programming.
 
-## Repository guide
+## Setup and repository reference
 
-### Contents
+### Project structure
 
 - [Chapter - 1 Introduction](Chapter%20-%201%20Introduction)
 - [Chapter - 10 - Object Oriented Programming](Chapter%20-%2010%20-%20Object%20Oriented%20Programming)
@@ -21,7 +21,6 @@ Chapter-based Python learning exercises covering core syntax, collections, files
 - [Chapter - 9 File Input&Output](Chapter%20-%209%20File%20Input%26Output)
 - [Project - 1 Water Snake Gun](Project%20-%201%20Water%20Snake%20Gun)
 - [Project - 2 The Perfect Guess](Project%20-%202%20The%20Perfect%20Guess)
-- [README.md](README.md)
 
 ### Getting started
 
@@ -34,9 +33,15 @@ Run individual Python exercises from their own folders. This collection has no s
 
 ### Configuration and limitations
 
+Follow the chapter folders in order and run each exercise independently. File-handling examples may rely on local text files and their working directory.
+
 ### Validation
 
-Reviewed on 2026-10-08. Python syntax checks passed for 148 source files. Syntax validation does not establish runtime correctness or dependency compatibility.
+Audit: 2026-10-08. Repository structure, setup instructions and description were reviewed. 148 existing Python files passed syntax checks; changed files and new regression tests were checked separately. Syntax checks do not establish full runtime correctness. External APIs, live scraping, GUI interaction, notebook training and production deployment were not comprehensively exercised.
+
+### Repository description
+
+The short GitHub description is provided in [REPOSITORY_DESCRIPTION.md](REPOSITORY_DESCRIPTION.md).
 
 ### Contributions
 
